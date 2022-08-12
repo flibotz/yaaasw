@@ -6,7 +6,7 @@ import socket
 import time
 import random
 import threading
-import Base64
+import base64
 import getpass
 import os
 import urllib
